@@ -10,6 +10,7 @@
 * [Текущий пользователь](me.md)
 * [Регионы](areas.md)
 * [Специализации](specializations.md)
+* [Автопоиски](saved_search.md)
 * [Метро](metro.md)
 * [Справочники](dictionaries.md)
 * [Локализация](locales.md)

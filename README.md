@@ -16,6 +16,7 @@ HeadHunter API — это бесплатный инструментарий дл
 * [Регионы](docs/areas.md)
 * [Специализации](docs/specializations.md)
 * [Метро](docs/metro.md)
+* [Автопоиски](docs/saved_search.md)
 * [Справочники](docs/dictionaries.md)
 * [Локализация](docs/locales.md)
 * [Отрасли компаний](docs/industries.md)
