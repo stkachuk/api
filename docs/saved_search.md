@@ -32,12 +32,10 @@
       "id": "123",
       "name": "Test autosearch",
       "created_at": "2014-04-11T13:12:17+0400",
-      "subscription": {
-        "email": "test@example.com"
-      },
+      "email_subscription": true,
       "items": {
         "count": 304234,
-        "url": "https://api.hh.ru/vacancies?area=1"
+        "url": "https://api.hh.ru/vacancies?area=1&saved_search_id=123"
       },
       "new_items": {
         "count": 12,
@@ -74,7 +72,7 @@
   "email_subscription": true,
   "items": {
     "count": 304234,
-    "url": "https://api.hh.ru/vacancies?area=1"
+    "url": "https://api.hh.ru/vacancies?area=1&saved_search_id=123"
   },
   "new_items": {
     "count": 12,
